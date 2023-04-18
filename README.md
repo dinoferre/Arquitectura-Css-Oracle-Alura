@@ -20,4 +20,6 @@
 
 -Cómo configurar la adaptación del sitio a diferentes tamaños de pantalla
 
-Link del proyecto en About 👉
+Dino Ferré 👽 - Link del proyecto 👇
+
+https://dinoferre.github.io/Arquitectura-Css-Oracle-Alura/
